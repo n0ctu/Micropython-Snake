@@ -6,6 +6,9 @@ A simple snake game for MCUs with Micropython and Neopixel. I put this together 
 In this example, I'm using the [LuXeria Camp 2023 Badge](https://github.com/luxeria/campbadge2023/) with a 5 x 5 LED matrix on it and the [M5 STAMP-C3](https://docs.m5stack.com/en/core/stamp_c3).
 
 todo
+
+![M5 STAMP-C3 wiring](wiring/m5-wiring.jpg)
+![LuXeria Camp 2023 Badge wiring](wiring/badge-wiring.jpg)
                         
 ## Installation
 
