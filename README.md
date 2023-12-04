@@ -23,6 +23,6 @@ mpremote cp main.py :.
 mpremote reset
 ```
 
-## Result
+## Demo
 
-![Snake](demo/snake.gif)
+[snake.gif](demo/snake.gif)
